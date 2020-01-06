@@ -1,0 +1,38 @@
+/* footer */
+.site-footer {
+  position: relative;
+  width: 100%;
+  padding: 0;
+  margin: 8rem 0 0 0;
+  border-top: #EBF2F6 1px solid;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 1.75em;
+  color: #BBC7CC;
+  z-index: -200;
+}
+
+.site-footer a {
+  color: #BBC7CC;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.site-footer a:hover {
+  color: #50585D;
+}
+
+.poweredby {
+  float: right;
+  width: 45%;
+  display: block;
+  text-align: right;
+  margin: 0 20px 0 0;
+}
+
+.copyright {
+  float: left;
+  width: 35%;
+  display: block;
+  margin: 0 0 0 11%;
+}

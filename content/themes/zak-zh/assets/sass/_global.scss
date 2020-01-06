@@ -1,0 +1,19 @@
+@import "var";
+
+body {
+  font-size: 20px;
+  font-family: $g-font-family;
+}
+
+a {
+  cursor: pointer;
+}
+
+/* 功能函数 */
+.f-fr {
+  float: right!important;
+}
+
+.f-ml4p {
+  margin-left: 4%!important;
+}
