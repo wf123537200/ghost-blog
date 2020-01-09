@@ -234,6 +234,11 @@ Blog.fn.afterPjax = function afterPjax() {
       });
     });
   });
+
+  // 处理静态页面非主业进入时导致的列表为空
+  if(!$('#pl__container').html().trim()) {
+    $('#pl__container').html(window.plContainer || '');
+  }
 }
 
 /**
