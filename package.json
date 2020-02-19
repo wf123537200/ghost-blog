@@ -63,7 +63,7 @@
     "qiniu": "6.1.6",
     "request": "2.47.0",
     "rss": "1.0.0",
-    "semver": "4.1.0",
+    "semver": "7.1.1",
     "showdown-ghost": "0.3.4",
     "sqlite3": "3.0.2",
     "unidecode": "0.1.3",
